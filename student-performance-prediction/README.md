@@ -1,4 +1,4 @@
-# Task 3: Predict Student Performance
+# Predict Student Performance
 
 A clean machine-learning project using **multiple linear regression** to predict student final grades and identify the factors most strongly associated with performance.
 
