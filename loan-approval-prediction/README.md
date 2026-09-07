@@ -71,6 +71,3 @@ The notebook itself contains the `plt.savefig(...)` lines used to generate these
 pip install -r requirements.txt
 jupyter notebook loan_approval_prediction.ipynb
 ```
-
-## Note
-This is an educational ML project. Loan approval models should not be used as real lending decisions without appropriate validation, fairness checks, governance and domain review.
