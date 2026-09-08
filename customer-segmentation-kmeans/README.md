@@ -1,4 +1,4 @@
-# Task 6: Customer Segmentation using K-Means Clustering
+# Customer Segmentation using K-Means Clustering
 
 ## Objective
 Segment mall customers based on demographic and shopping behavior using **K-Means clustering**.
